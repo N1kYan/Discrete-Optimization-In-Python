@@ -3,7 +3,7 @@ Repository for tutorials and implementations of the concepts of discrete optimiz
 
 #### Walkthrough
 For the complete tutorial, please work through the notebooks in the following order:
-1. Introduction
+1. [Introduction](Introduction.ipynb)
 2. [Fourier Motzkin Elimination](Fourier-Motzkin-Elimination.ipynb)
 3. [Affine Mappings and Polar Cones](Affine-Mappings-and-Polar-Cones.ipynb)
 4. [Interior and Exterior Representation](Interior-Exterior-Representations.ipynb)
@@ -14,7 +14,7 @@ For the complete tutorial, please work through the notebooks in the following or
 9. [The Knapsack Problem](The-Knapsack-Problem.ipynb)
 10. [The Set-Packing Polytope](The-Set-Packing-Polytope.ipynb)
 11. [Lagrange Relaxation](Lagrange-Relaxation.ipynb)
-12. [Dantzig-Wolfe Decomposition]()
-13. [Bender's Decomposition]()
-14. [Heuristics]()
-15. [Last]()
+12. [Dantzig-Wolfe Decomposition](Dantzig-Wolfe-Decomposition.ipynb)
+13. [Bender's Decomposition](Benders-Decomposition.ipynb)
+14. [Heuristics](Heuristic-Methods.ipynb)
+15. [Other Heuristics](Other-Heuristics.ipynb)
